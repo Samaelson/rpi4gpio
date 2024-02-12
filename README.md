@@ -1,5 +1,6 @@
 # rpi4gpio
-# This is based on https://github.com/yang-neu/rpi3gpio
+
+This is based on https://github.com/yang-neu/rpi3gpio
 
 This is a complete android treble architecture sample,including:
 
